@@ -1,3 +1,5 @@
+[source url](https://blog.ton.org/what-is-blockchain)
+
 # Web 2
 web2 là công nghệ tập trung, nơi tài sản kỹ thuật số đặt hết vào các công ty công nghệ lớn. Chúng ta những người sử dụng công nghệ chỉ có quyền đặt trọn niềm tin vào các công ty đó => Đây là sự không cân bằng giữa người sử dụng dịch vụ và người tạo ra dịch vụ.
 
