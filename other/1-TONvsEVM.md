@@ -76,3 +76,4 @@ Trên TON, ví không được ngụ ý, chúng là các hợp đồng thông mi
 Gửi giao dịch tới một số dapp trên TON liên quan đến việc ký tin nhắn bằng khóa riêng của người dùng. Không giống như Ethereum, giao dịch này không được gửi đến hợp đồng thông minh dapp mà đến hợp đồng ví của người dùng, hợp đồng này sẽ chuyển tiếp tin nhắn đến hợp đồng thông minh dapp.
 
 Phương pháp thiết kế này mở ra một chiều hướng linh hoạt mới trên TON. Các hợp đồng ví mới có thể được cộng đồng phát minh theo thời gian, ví dụ: hãy xem xét một ví không có số thứ tự (số thứ tự giao dịch) cho phép nhiều giao dịch được gửi song song từ các khách hàng khác nhau mà không cần đồng bộ hóa trước. Ngoài ra, các ví đặc biệt như ví đa chữ ký (cũng trên Ethereum yêu cầu triển khai hợp đồng thông minh đặc biệt), hoạt động giống như các đối tác thông thường của chúng.
+
